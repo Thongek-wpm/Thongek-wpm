@@ -6,7 +6,7 @@ My team Discord [NEXT WAREHOUSE](https://discord.gg/bppT8TaYrf)
 I lived at Bangkok,Thailand land of smile (because of cannabis)
 ___________________________________________________________________________________________________________________________________
 ### Me, Myself
-<img src=https://user-images.githubusercontent.com/70640558/202118594-5b66b41f-48d1-4527-b7d5-f790559fb9fd.png></a>
+<img src=![Uploading image.png…]()></a>
 ___________________________________________________________________________________________________________________________________
 ### Languages and Tools:
 
