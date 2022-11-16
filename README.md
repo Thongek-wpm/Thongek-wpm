@@ -1,20 +1,13 @@
 ### About me 
-
-
 hello eveyone My name Thongek Wongponom I learn to Flutter many time and testing application 
 now i am stndy now not have project is done in github/thongek-wpm if eveyone have idea to suggestable or any language or whatever me at twtter [@ThongekW](https://twitter.com/ThongekW), Facebook [Thongek Wpm](https://www.facebook.com/BreakerGEz) and [Fanpage : Thongek Wpm](https://www.facebook.com/ThongekWpmTh/) or Discord [The Next 다음#1352]
 My team Discord [NEXT WAREHOUSE](https://discord.gg/bppT8TaYrf)
 
 I lived at Bangkok,Thailand land of smile (because of cannabis)
 ___________________________________________________________________________________________________________________________________
-  
 ### Me, Myself
-
-
-<img src=https://user-images.githubusercontent.com/70640558/202118331-82999b1c-33e7-4dc5-9c9f-2420c14641f9.png></a>
-
+<img src=https://user-images.githubusercontent.com/70640558/202118594-5b66b41f-48d1-4527-b7d5-f790559fb9fd.png></a>
 ___________________________________________________________________________________________________________________________________
-
 ### Languages and Tools:
 
 <a href=https://dart.dev><img src =https://user-images.githubusercontent.com/70640558/202115876-0d1ba409-24cd-4b39-a8c5-412a641044c8.png></a> <a href=https://flutter.dev><img src = https://user-images.githubusercontent.com/70640558/202114227-550aeb95-2a58-4121-bace-6ec0d175d97f.png></a>
