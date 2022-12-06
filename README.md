@@ -7,7 +7,7 @@ Working : **FreeAgent**
 ### contact:
 <a href= https://www.facebook.com/BreakerGEz><img src =https://user-images.githubusercontent.com/70640558/205985322-edf01cec-77ec-477d-92e6-2e7a58587a86.png></a>
 <a href= https://www.instagram.com/thongek_wpm><img src =https://user-images.githubusercontent.com/70640558/205985785-ead26530-744a-4a3b-8a95-4d44390441dc.png></a>
-<a href= https://www.linkedin.com/in/thongek-wongpomon-338aba258><img src =https://user-images.githubusercontent.com/70640558/205986576-4a4044b8-4c6d-435f-843f-10e3d899be7d.png></a><a href= https://twitter.com/ThongekW><img src =https://user-images.githubusercontent.com/70640558/205987012-67532951-3945-4773-887b-03a803adb4b3.png></a><a href= https://www.youtube.com/@thongek_wpm><img src =https://user-images.githubusercontent.com/70640558/205987610-fbf7b299-5b78-48d7-b034-6f0f0e717f75.png></a>
+<a href= https://www.linkedin.com/in/thongek-wongpomon-338aba258><img src =https://user-images.githubusercontent.com/70640558/205986576-4a4044b8-4c6d-435f-843f-10e3d899be7d.png></a><a href= https://twitter.com/ThongekW><img src =https://user-images.githubusercontent.com/70640558/205987012-67532951-3945-4773-887b-03a803adb4b3.png></a><a href= https://www.youtube.com/@thongek_wpm><img src =https://user-images.githubusercontent.com/70640558/205987610-fbf7b299-5b78-48d7-b034-6f0f0e717f75.png></a><a href= https://www.twitch.tv/thenextza><img src =https://user-images.githubusercontent.com/70640558/205988018-1d9c4c53-979c-499d-a2d1-4eeba5a1380e.png></a>
 
 
 
