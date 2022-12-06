@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 ### Languages and Tools:
 <a href=https://flutter.dev><img src = https://user-images.githubusercontent.com/70640558/205962213-7168570a-4f33-4369-891c-5bf45ada4612.png ></a> 
-<a href=https://dart.dev><img src =https://user-images.githubusercontent.com/70640558/205966478-434c1f82-5db8-4b7f-a0cc-d724dc806b41.png></a> 
+<a href=https://dart.dev><img src =https://user-images.githubusercontent.com/70640558/205966841-fe9532ac-b1db-4170-851a-7c726526c848.svg></a> 
 <a href= https://firebase.google.com><img src =https://user-images.githubusercontent.com/70640558/205962094-6b4918db-b1b7-4afa-a93b-8d6ec8810a81.png></a>
 <a href= https://code.visualstudio.com><img src = https://user-images.githubusercontent.com/70640558/205961074-60b5c636-ac50-4ec8-813f-7c8b0663fed5.png></a>
 
