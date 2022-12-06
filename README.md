@@ -3,6 +3,8 @@ hello eveyone My name Thongek Wongponom I learn to Flutter many time and testing
 now i am stndy now not have project is done in github/thongek-wpm if eveyone have idea to suggestable or any language or whatever me at twtter [@ThongekW](https://twitter.com/ThongekW), Facebook [Thongek Wpm](https://www.facebook.com/BreakerGEz) and [Fanpage : Thongek Wpm](https://www.facebook.com/ThongekWpmTh/) or Discord [The Next 다음#1352]
 My team Discord [NEXT WAREHOUSE](https://discord.gg/bppT8TaYrf)
 
+Working : **FreeAgent**
+
 
 I lived at Bangkok,Thailand land of smile (because of cannabis)
 ___________________________________________________________________________________________________________________________________
