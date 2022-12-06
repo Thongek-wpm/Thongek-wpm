@@ -8,9 +8,8 @@ ________________________________________________________________________________
 
 
 ### Languages and Tools:
-
-<a href=https://dart.dev><img src =https://user-images.githubusercontent.com/70640558/205704852-a7854953-26a8-41de-8119-70595db96c96.png></a> <a href=https://flutter.dev><img src =https://user-images.githubusercontent.com/70640558/205705119-9a283f5d-f266-45db-a490-ae8cf7bcac4f.png></a> 
-<a href= https://firebase.google.com><img src =https://user-images.githubusercontent.com/70640558/205704514-64379b99-f0ce-4298-8139-ac9000d5a3fd.png></a>
+<a href=https://flutter.dev><img src = https://user-images.githubusercontent.com/70640558/205962213-7168570a-4f33-4369-891c-5bf45ada4612.png ></a> 
+<a href= https://firebase.google.com><img src =https://user-images.githubusercontent.com/70640558/205962094-6b4918db-b1b7-4afa-a93b-8d6ec8810a81.png></a>
 <a href= https://code.visualstudio.com><img src = https://user-images.githubusercontent.com/70640558/205961074-60b5c636-ac50-4ec8-813f-7c8b0663fed5.png></a>
 
 
