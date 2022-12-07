@@ -26,3 +26,5 @@ ________________________________________________________________________________
 ### learning:
 <a href= https://vuejs.org><img src =https://user-images.githubusercontent.com/70640558/205969831-da82182e-0e3b-43dd-bf8c-83cc60af5449.png></a>
 <a href= https://next.vuetifyjs.com/en><img src =https://user-images.githubusercontent.com/70640558/205970338-19fe7ebb-bb9e-4641-bfbc-fb0162a820cd.png></a>
+<a href= https://create-react-app.dev><img src =https://user-images.githubusercontent.com/70640558/206164677-06190197-c83e-4ffa-a67d-caaee157680c.png></a>
+<a href= https://reactnative.dev><img src =https://user-images.githubusercontent.com/70640558/206164807-23117c89-a24b-431f-849d-796a77d585f5.png></a>
