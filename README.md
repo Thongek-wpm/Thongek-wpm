@@ -17,6 +17,7 @@ ________________________________________________________________________________
 <a href= https://code.visualstudio.com><img src = https://user-images.githubusercontent.com/70640558/206163103-9e0d1246-f3aa-446c-8490-8a086c2b9fb3.png></a>
 <a href= https://desktop.github.com><img src = https://user-images.githubusercontent.com/70640558/205984670-4db342f0-443c-4428-b3d8-7f9ffe6d1c6f.png></a>
 <a href= https://developer.android.com/studio><img src =https://user-images.githubusercontent.com/70640558/206163558-cc124f88-4e5e-4b09-bb76-f10a58079652.png></a>
+<a href= https://www.jetbrains.com/idea><img src =https://user-images.githubusercontent.com/70640558/206166039-bc097598-4846-40b0-b19d-b2f1aeb027d4.png></a>
 ### Languages and Tools:
 <a href=https://flutter.dev><img src = https://user-images.githubusercontent.com/70640558/205962213-7168570a-4f33-4369-891c-5bf45ada4612.png ></a> 
 <a href=https://dart.dev><img src =https://user-images.githubusercontent.com/70640558/205966841-fe9532ac-b1db-4170-851a-7c726526c848.svg></a> 
