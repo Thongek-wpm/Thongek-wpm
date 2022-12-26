@@ -24,6 +24,8 @@ ________________________________________________________________________________
 <a href= https://firebase.google.com><img src =https://user-images.githubusercontent.com/70640558/205962094-6b4918db-b1b7-4afa-a93b-8d6ec8810a81.png></a>
 <a href= https://yarnpkg.com><img src =https://user-images.githubusercontent.com/70640558/206162610-127993b8-d1e4-41f1-ad80-1ae937af6e7e.png></a>
 <a href= https://nodejs.org/en><img src =https://user-images.githubusercontent.com/70640558/206164106-0f214e1f-00c1-4f4f-9915-0eb815905e64.png></a>
+<a href= https://www.postman.com><img src =https://user-images.githubusercontent.com/70640558/209552486-59b1eb96-6290-45a8-b4f2-bb81ba2733fe.png></a>
+<a href= https://www.apachefriends.org/index.html><img src =https://user-images.githubusercontent.com/70640558/209552366-51dac6e7-0940-415c-b457-0510f22fd02b.png></a>
 ### learning:
 <a href= https://vuejs.org><img src =https://user-images.githubusercontent.com/70640558/205969831-da82182e-0e3b-43dd-bf8c-83cc60af5449.png></a>
 <a href= https://next.vuetifyjs.com/en><img src =https://user-images.githubusercontent.com/70640558/205970338-19fe7ebb-bb9e-4641-bfbc-fb0162a820cd.png></a>
