@@ -31,7 +31,7 @@ ________________________________________________________________________________
 <a href= https://nodejs.org/en><img src =https://user-images.githubusercontent.com/70640558/206164106-0f214e1f-00c1-4f4f-9915-0eb815905e64.png></a>
 <a href= https://www.postman.com><img src =https://user-images.githubusercontent.com/70640558/209552486-59b1eb96-6290-45a8-b4f2-bb81ba2733fe.png></a>
 <a href= https://www.apachefriends.org/index.html><img src =></a>
-<a href= https://en.wikipedia.org/wiki/C%2B%2B><img src =https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/4e4702a5-2ff5-4d66-9d44-49daf3d307e3></a>
+<a href= https://en.wikipedia.org/wiki/C%2B%2B><img src =https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/41c35599-147b-4cf3-ad68-07385ac9068f></a>
 ### learning:
 <a href= https://vuejs.org><img src =https://user-images.githubusercontent.com/70640558/205969831-da82182e-0e3b-43dd-bf8c-83cc60af5449.png></a>
 <a href= https://next.vuetifyjs.com/en><img src =https://user-images.githubusercontent.com/70640558/205970338-19fe7ebb-bb9e-4641-bfbc-fb0162a820cd.png></a>
