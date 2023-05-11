@@ -21,6 +21,8 @@ ________________________________________________________________________________
 <a href= https://discord.com><img src = https://user-images.githubusercontent.com/70640558/209553248-f52a9d2d-de0a-4865-bf38-81d31390431a.png></a>
 <a href= https://slack.com><img src = https://user-images.githubusercontent.com/70640558/209553305-b877812d-6d62-4e83-a732-bdacac843320.png></a>
 <a href= http://gmail.com><img src =https://user-images.githubusercontent.com/70640558/209553460-1ecdefed-b73b-4ff9-90de-73afabba3727.png></a>
+<a href= https://www.adobe.com/th_th/products><img src =https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/1ccf4eed-559b-4bfa-8415-d188e3fb7750></a>
+<a href= https://www.adobe.com/th_th/products><img src =https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/6d0207ff-fc90-4d4e-9236-79972f386fa2></a>
 
 
 ### Languages and Framwork:
