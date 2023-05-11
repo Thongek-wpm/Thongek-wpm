@@ -30,7 +30,7 @@ ________________________________________________________________________________
 <a href= https://yarnpkg.com><img src =https://user-images.githubusercontent.com/70640558/206162610-127993b8-d1e4-41f1-ad80-1ae937af6e7e.png></a>
 <a href= https://nodejs.org/en><img src =https://user-images.githubusercontent.com/70640558/206164106-0f214e1f-00c1-4f4f-9915-0eb815905e64.png></a>
 <a href= https://www.postman.com><img src =https://user-images.githubusercontent.com/70640558/209552486-59b1eb96-6290-45a8-b4f2-bb81ba2733fe.png></a>
-<a href= https://www.apachefriends.org/index.html><img src =https://user-images.githubusercontent.com/70640558/209552366-51dac6e7-0940-415c-b457-0510f22fd02b.png></a>
+<a href= https://www.apachefriends.org/index.html><img src =></a>
 <a href= https://en.wikipedia.org/wiki/C%2B%2B><img src =https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/4e4702a5-2ff5-4d66-9d44-49daf3d307e3></a>
 ### learning:
 <a href= https://vuejs.org><img src =https://user-images.githubusercontent.com/70640558/205969831-da82182e-0e3b-43dd-bf8c-83cc60af5449.png></a>
