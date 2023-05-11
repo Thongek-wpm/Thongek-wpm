@@ -14,7 +14,7 @@ now i am graduated now have project in progress in [github/thongek-wpm](https://
 I lived at Bangkok,Thailand land of smile (because of cannabis)
 ___________________________________________________________________________________________________________________________________
 
-### Tool for developer and Association
+### Tool and Association
 <a href= https://code.visualstudio.com><img src = https://user-images.githubusercontent.com/70640558/206163103-9e0d1246-f3aa-446c-8490-8a086c2b9fb3.png></a>
 <a href= https://desktop.github.com><img src = https://user-images.githubusercontent.com/70640558/205984670-4db342f0-443c-4428-b3d8-7f9ffe6d1c6f.png></a>
 <a href= https://developer.android.com/studio><img src =https://user-images.githubusercontent.com/70640558/206163558-cc124f88-4e5e-4b09-bb76-f10a58079652.png></a>
@@ -23,7 +23,7 @@ ________________________________________________________________________________
 <a href= http://gmail.com><img src =https://user-images.githubusercontent.com/70640558/209553460-1ecdefed-b73b-4ff9-90de-73afabba3727.png></a>
 
 
-### Languages and Tools:
+### Languages and Framwork:
 <a href=https://flutter.dev><img src = https://user-images.githubusercontent.com/70640558/205962213-7168570a-4f33-4369-891c-5bf45ada4612.png ></a> 
 <a href=https://dart.dev><img src =https://user-images.githubusercontent.com/70640558/205966841-fe9532ac-b1db-4170-851a-7c726526c848.svg></a> 
 <a href= https://firebase.google.com><img src =https://user-images.githubusercontent.com/70640558/205962094-6b4918db-b1b7-4afa-a93b-8d6ec8810a81.png></a>
