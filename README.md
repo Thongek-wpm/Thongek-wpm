@@ -35,7 +35,7 @@ ________________________________________________________________________________
 <a href= https://en.wikipedia.org/wiki/C%2B%2B><img src =https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/e1805d31-e5f0-4c7d-8914-3984753ccbed></a>
 <a href= https://www.java.com/en><img src =https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/d64d2366-c6ad-4c72-a35a-b3087506f489></a>
 <a href=https://www.php.net/><img src = https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/45afb1dd-04d1-48be-b664-3fc1ba7fd85a></a> 
-<a href=https://laravel.com//><img src = https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/d061df38-d2f9-4b94-bffe-a90d31f88949></a> 
+
 ### learning:
 <a href= https://vuejs.org><img src =https://user-images.githubusercontent.com/70640558/205969831-da82182e-0e3b-43dd-bf8c-83cc60af5449.png></a>
 <a href= https://next.vuetifyjs.com/en><img src =https://user-images.githubusercontent.com/70640558/205970338-19fe7ebb-bb9e-4641-bfbc-fb0162a820cd.png></a>
