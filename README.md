@@ -1,3 +1,6 @@
+<p align="center">
+<img src = https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/3d308a35-1935-4db8-bb2c-2efb3e7042e9>
+</p>
 ### About me 
 hello eveyone My name Thongek Wongponom I learn to Flutter many time and testing application 
 now i am graduated now have project in progress in [github/thongek-wpm](https://github.com/Thongek-wpm) if eveyone have idea to suggestable or any language or whatever me at twtter [@ThongekW](https://twitter.com/ThongekW), Facebook [Thongek Wpm](https://www.facebook.com/BreakerGEz) and [Fanpage : Thongek Wpm](https://www.facebook.com/ThongekWpmTh/) or Discord [The Next 다음#1352]  My team Discord [NEXT WAREHOUSE](https://discord.gg/bppT8TaYrf) I'm learning eveyone for experience
