@@ -38,9 +38,9 @@ ________________________________________________________________________________
 <a href= https://www.postman.com><img src =https://user-images.githubusercontent.com/70640558/209552486-59b1eb96-6290-45a8-b4f2-bb81ba2733fe.png></a>
 <a href= https://en.wikipedia.org/wiki/C%2B%2B><img src =https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/e1805d31-e5f0-4c7d-8914-3984753ccbed></a>
 <a href= https://www.java.com/en><img src =https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/d64d2366-c6ad-4c72-a35a-b3087506f489></a>
-<a href=https://www.php.net/><img src = https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/45afb1dd-04d1-48be-b664-3fc1ba7fd85a></a> 
+<a href= https://www.php.net><img src = https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/45afb1dd-04d1-48be-b664-3fc1ba7fd85a></a> 
 <br>
-<a href=https://laravel.com/><img src =https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/d2d7a986-2a58-4701-89bd-56a71874c6a7></a> 
+<a href= https://laravel.com/docs/10.x><img src =https://github.com/Thongek-wpm/Thongek-wpm/assets/70640558/d2d7a986-2a58-4701-89bd-56a71874c6a7></a> 
 
 ### learning:
 <a href= https://vuejs.org><img src =https://user-images.githubusercontent.com/70640558/205969831-da82182e-0e3b-43dd-bf8c-83cc60af5449.png></a>
